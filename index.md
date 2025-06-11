@@ -8,3 +8,5 @@ author_profile: true
 # Curriculum Vitae - Mary Otieno
 ---
 ## Education
+- **Bsc in Information technology**, Mount Kenya University -* Second Class Honours Upper Division*
+  
