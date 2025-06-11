@@ -14,6 +14,7 @@ author_profile: true
 ---
 # WEEK 2 LAB CHALLENGE
 **Problem Statement:** BUILD A SWITCH AND A ROUTER, INTRODUCTION TO NETWORK TRAFFIC ANALYSIS
+
 **Approach:** To approach this challenge, I first used Cisco Packet Tracer to simulate a basic network setup. I configured a switch and a router, and connected multiple end devices to create a small LAN. I assigned IP addresses, set up routing protocols, and verified connectivity using ICMP (ping).
 
 Once the topology was operational, I initiated traffic between devices and began analyzing it using HTB Academy's traffic capture tools. I inspected packet flows, ARP requests, and ICMP echo replies to understand how devices communicated across the network.
