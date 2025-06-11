@@ -1,11 +1,11 @@
----
+
 title: "Posts by Projects"
 layout: projects
 permalink: /projects/
 author_profile: true
 ---
 # Projects
-## Merlin-s-Fast-Food
+Merlin-s-Fast-Food
 https://github.com/Maryotieno/Merlin-s-Fast-Food.git
 This was a food Ordering System created to enable people at Thika locality to order food online.
 Tools used
