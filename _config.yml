@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Mary Otieno"
-  avatar : assets//images/Mary Otieno.jpg
+  avatar : "/assets/images/Mary Otieno.jpg"
   bio    : "AWS Cloud Practitioner|Cybersecurity Enthusiast|Cloud & Network Security Analyst"
   links:
     - label: "Website"
