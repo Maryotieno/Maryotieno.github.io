@@ -13,7 +13,9 @@ author_profile: true
 - **Certificate In Computer Applications**, Strive & Excel College -* Pass*
 - **Certificate Of Secondary Education**, Kisumu Girls High school, - * Grade B*
 ---
-## Certificate
+## Certifications
+-**Certified Cloud Practitioner**, AJIRA Digital Program| eMobilis Technology Institute- *Pass*
+
 
 
   
