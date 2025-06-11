@@ -21,15 +21,14 @@ author_profile: true
 -**ATTACHEE**
 KENYA NEWS AGENCY - May 2024–Aug 2024
 
- -Led Operations at KNA library and improved efficiency by 60%.
+- Led Operations at KNA library and improved efficiency by 60%.
 -Optimized newly acquired and relocated equipment improving 
 efficiency by 70%.
- -Implemented a new network Infrastructure at KNA website reducing 
+- Implemented a new network Infrastructure at KNA website reducing 
 downtime by 40%.
- -Strengthened security systems, reducing cyber threats by 60%.
- -Installed operating systems and user applications, backed up data, 
+- Strengthened security systems, reducing cyber threats by 60%.
+- Installed operating systems and user applications, backed up data, 
 and digitized and archived historical data.
-
 ----
 
 ### Skills
