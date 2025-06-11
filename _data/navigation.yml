@@ -1,6 +1,8 @@
 main:
   - title: "Projects"
     url: /projects/
+    - :contentReference[oaicite:8]{index=8}
+  :contentReference[oaicite:9]{index=9}
   - title: "Lab Challenges"
     url: /lab challenges/
   - title: "Contacts"
