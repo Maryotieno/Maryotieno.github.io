@@ -24,7 +24,8 @@ author_profile: true
   ---
   
 ## Certifications
--**AWS Certified Cloud Practitioner**, link https://www.credly.com/badges/70a88402-3425-4d35-8bd0-c90a6920b5c6/public_url  
+-**AWS Certified Cloud Practitioner**,
+link https://www.credly.com/badges/70a88402-3425-4d35-8bd0-c90a6920b5c6/public_url  
 -**cisco Introduction to cybersecurity**
 
 ---
