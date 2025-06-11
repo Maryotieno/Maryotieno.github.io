@@ -6,10 +6,8 @@ layout: single
 author_profile: true
 ---
 
-# Curriculum Vitae - Mary Otieno
----
+## Curriculum Vitae - Mary Otieno
 
- # Resume
  
  - Here is my attached resume
   [Mary_Auma cv.pdf](https://github.com/user-attachments/files/20687399/Mary_Auma.cv.pdf)
