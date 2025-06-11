@@ -23,7 +23,7 @@ It involved using python to automate tasks
 
 ---
 
- ### MACARENA BAKERS
+ ### Macarena Bakers
  https://github.com/Maryotieno/MACARENA-BAKERS.git
  This involved creating a website for ordering cakes
 
