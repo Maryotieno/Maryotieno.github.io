@@ -36,8 +36,8 @@ and digitized and archived historical data.
 ### Skills
 - IT Support and network 
 troubleshooting
--Django
--Microsoft Office
+- Django
+- Microsoft Office
 - Social Media management
 - Python|HTML|CSS
 - AWS commandline Interface
