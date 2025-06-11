@@ -20,6 +20,7 @@ author_profile: true
 ## Work Experience
 -**ATTACHEE**
 KENYA NEWS AGENCY - May 2024–Aug 2024
+
  -Led Operations at KNA library and improved efficiency by 60%.
 -Optimized newly acquired and relocated equipment improving 
 efficiency by 70%.
