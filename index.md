@@ -1,3 +1,4 @@
+[Mary_Auma cv.pdf](https://github.com/user-attachments/files/20687380/Mary_Auma.cv.pdf)
 ---
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
@@ -44,6 +45,12 @@ troubleshooting
 - Cloud computing
 - Network security
 - Information security
+
+  ---
+  ### Resume
+  Here is my attached resume
+  [Mary_Auma cv.pdf](https://github.com/user-attachments/files/20687399/Mary_Auma.cv.pdf)
+
 
 
 
