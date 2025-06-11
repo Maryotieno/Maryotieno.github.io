@@ -20,8 +20,11 @@ Tools used
 ### aws_restart
 https://github.com/Maryotieno/aws_restart.git
 It involved using python to automate tasks
+
 ---
  ### MACARENA BAKERS
  https://github.com/Maryotieno/MACARENA-BAKERS.git
  This involved creating a website for ordering cakes
+
+ ---
   
