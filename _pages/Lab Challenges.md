@@ -1,7 +1,7 @@
 ---
 title: "Posts by Lab Challenges"
 permalink: /lab challenges/
-layout: lab challenges
+layout: default
 author_profile: true
 ---
 # WEEK 1 LAB CHALLENGE
