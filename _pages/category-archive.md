@@ -1,4 +1,4 @@
-
+---
 title: "Posts by Projects"
 layout: projects
 permalink: /projects/
