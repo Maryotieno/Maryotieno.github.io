@@ -4,6 +4,7 @@ layout: projects
 permalink: /projects/
 author_profile: true
 ---
+
 # Projects
 ### Merlin-s-Fast-Food
 https://github.com/Maryotieno/Merlin-s-Fast-Food.git
@@ -20,4 +21,8 @@ Tools used
 https://github.com/Maryotieno/aws_restart.git
 It involved using python to automate tasks
 
+ ---
+ ### MACARENA-BAKERS
+ https://github.com/Maryotieno/MACARENA-BAKERS.git
+ This involved creating a website for ordering cakes
   
