@@ -62,9 +62,9 @@ author:
   avatar : "/assets/images/Mary Otieno.jpg"
   bio    : "AWS Cloud Practitioner|Cybersecurity Enthusiast|Cloud & Network Security Analyst"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    - #label: "Website"
+      #icon: "fas fa-fw fa-link"
+      #url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/MonsarrateR?t=v1-u4KgG1C1lmDL4H-lBBQ&s=08 "
