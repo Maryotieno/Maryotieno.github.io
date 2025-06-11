@@ -9,4 +9,4 @@ author_profile: true
 **Approach:** Worked through modules on file system navigation, installing, and using Packet Tracer.
 **Tools:** I used Packet Tracer
 - a screenshot of the lab challenge
-(https://github.com/user-attachments/assets/e38c2a2a-afcf-4ad3-93c4-5019239f63ef)
+![Screenshot (263)](https://github.com/user-attachments/assets/23cd2dce-7db8-4206-a875-752dd4d199fd)
