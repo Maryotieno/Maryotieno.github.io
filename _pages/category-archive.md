@@ -21,11 +21,8 @@ Tools used
 https://github.com/Maryotieno/aws_restart.git
 It involved using python to automate tasks
 
----
-
  ### Macarena Bakers
  https://github.com/Maryotieno/MACARENA-BAKERS.git
  This involved creating a website for ordering cakes
-
- ---
+ 
   
