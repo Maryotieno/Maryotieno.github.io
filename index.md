@@ -9,10 +9,12 @@ author_profile: true
 # Curriculum Vitae - Mary Otieno
 ---
 
- # Resume
+ ## Resume
+ 
   Here is my attached resume
   [Mary_Auma cv.pdf](https://github.com/user-attachments/files/20687399/Mary_Auma.cv.pdf)
 
+---
 
 ##  Education
 - **Bsc in Information technology**, Mount Kenya University - * Second Class Honours Upper Division*
@@ -20,11 +22,13 @@ author_profile: true
 - **Certificate In Computer Applications**, Strive & Excel College -* Pass*
 - **Certificate Of Secondary Education**, Kisumu Girls High School -* Grade Attained B*
   
-  ----
+  ---
   
 ## Certifications
 -**AWS Certified Cloud Practitioner**, link https://www.credly.com/badges/70a88402-3425-4d35-8bd0-c90a6920b5c6/public_url  
 -**cisco Introduction to cybersecurity**
+
+---
 
 ## Work Experience
 -**ATTACHEE**
