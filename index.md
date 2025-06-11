@@ -11,11 +11,36 @@ author_profile: true
 - **Bsc in Information technology**, Mount Kenya University - * Second Class Honours Upper Division*
 - **Certificate in Data Analysis(SPSS&Stata)**, KESAP Research Center
 - **Certificate In Computer Applications**, Strive & Excel College -* Pass*
-- **Certificate Of Secondary Education**, Kisumu Girls High school, - * Grade B*
----
+- **Certificate Of Secondary Education**, Kisumu Girls High school, - * Grade B* ---
+  ---
 ## Certifications
--**Certified Cloud Practitioner**, AJIRA Digital Program| eMobilis Technology Institute- *Pass*
-credly
+-**AWS Certified Cloud Practitioner**, link https://www.credly.com/badges/70a88402-3425-4d35-8bd0-c90a6920b5c6/public_url  
+-**cisco Introduction to cybersecurity**
+---
+## Work Experience
+-**ATTACHEE**
+KENYA NEWS AGENCY - May 2024–Aug 2024
+ -Led Operations at KNA library and improved efficiency by 60%.
+-Optimized newly acquired and relocated equipment improving 
+efficiency by 70%.
+ -Implemented a new network Infrastructure at KNA website reducing 
+downtime by 40%.
+ -Strengthened security systems, reducing cyber threats by 60%.
+ -Installed operating systems and user applications, backed up data, 
+and digitized and archived historical data.
+---
+### Skills
+-IT Support and network 
+troubleshooting
+-python|Django
+-Microsoft office
+- Social Media management
+- Python|HTML|CSS
+- AWS commandline Interface
+- Cloud computing
+- Network security
+- Information security
+
 
 
 
