@@ -28,7 +28,9 @@ downtime by 40%.
  -Strengthened security systems, reducing cyber threats by 60%.
  -Installed operating systems and user applications, backed up data, 
 and digitized and archived historical data.
----
+
+----
+
 ### Skills
 -IT Support and network 
 troubleshooting
