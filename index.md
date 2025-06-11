@@ -6,3 +6,5 @@ layout: home
 author_profile: true
 ---
 # Curriculum Vitae - Mary Otieno
+---
+## Education
